@@ -52,7 +52,8 @@ go mod download
 go run main.go
 Nota: Si usas Fiber, el servidor correrá por defecto en http://localhost:19070.
 
-3. Endpoints de ejemplo
+**3. Endpoints de ejemplo**
+
 | Método | Ruta           | Descripción                     |
 |--------|----------------|---------------------------------|
 | GET    | /api/health    | Verifica el estado del API.     |
