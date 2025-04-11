@@ -43,14 +43,16 @@
 2. Clonar y ejecutar
 
 # Clonar el repositorio
-git clone https://github.com/MiguelGarcia151999/ActivacionesGoland.git
-cd ActivacionesGoland
+
+    git clone https://github.com/MiguelGarcia151999/ActivacionesGoland.git
+    cd ActivacionesGoland
 
 # Instalar dependencias
-go mod download
+    go mod download
 
 # Ejecutar el proyecto
-go run main.go
+    go run main.go
+    
 Nota: Si usas Fiber, el servidor correrá por defecto en http://localhost:19070.
 
 **3. Endpoints de ejemplo**
