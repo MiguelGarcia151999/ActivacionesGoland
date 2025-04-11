@@ -16,23 +16,22 @@
 4. Git Control de versiones.
 5. VS Code Editor de código principal.
 
-### **📂 Estructura del Proyecto**
-.
-├── /config/        # Configuracion principales para manejo de datos entre archivos
-├── /database/      # Conexiones a las bases de datos (MySQL & MongoDB)
-├── /internal/      # Lógica interna del proyecto
-│   ├── /handlers/  # Proceso interno de lo que hacen las apis
-│   ├── /models/    # Estructuras de datos (BD)
-│   └── /routes/    # Manejo de endpoints (HTTPS)
-├── /middleware/    # Procesos intermedios entre el usuario y el servicio
-├── /tmp/           # Archivos temporales al correr el proyecto
-├── .air.toml       # Configuracion para autoreinicio del proyecto
-├── .env.example    # Representacion de datos necesarios para correr el proyecto
-├── .gitignore      # Archivos y Dependencias que no se van a subir al repositorio git
-├── go.mod          # Módulo de Go (dependencias)
-├── go.sum          # Checksum de dependencias
-├── main.go         # Punto de entrada de la aplicacion
-└── README.md       # Este archivo
+📦 **NombreDelProyecto**  
+├── 📂 **config**           # Configuración principal (archivos YAML/ENV)  
+├── 📂 **database**         # Conexiones a bases de datos (MySQL, MongoDB)  
+├── 📂 **internal**         # Lógica interna del proyecto  
+│   ├── 📂 **handlers**     # Lógica de endpoints (API)  
+│   ├── 📂 **models**       # Estructuras de datos (BD)  
+│   └── 📂 **routes**       # Definición de rutas HTTP  
+├── 📂 **middleware**       # Interceptores (auth, logs, etc.)  
+├── 📂 **tmp**              # Archivos temporales  
+├── 📄 **.air.toml**        # Configuración para autoreload (Air)  
+├── 📄 **.env.example**     # Variables de entorno de ejemplo  
+├── 📄 **.gitignore**       # Archivos excluidos de Git  
+├── 📄 **go.mod**           # Módulo de Go (dependencias)  
+├── 📄 **go.sum**           # Checksum de dependencias  
+├── 📄 **main.go**          # Punto de entrada  
+└── 📄 **README.md**        # Documentación principal  
 
 ### 🔧 Configuración y Uso
 1. Requisitos
