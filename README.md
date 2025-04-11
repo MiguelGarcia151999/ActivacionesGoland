@@ -40,8 +40,6 @@
     1.1 Go 1.20+ (Descargar)
     1.2 Git (Descargar)
 
-2. Clonar y ejecutar
-
 # Clonar el repositorio
 
     git clone https://github.com/MiguelGarcia151999/ActivacionesGoland.git
@@ -56,7 +54,7 @@
 > [!TIP]
 > Nota:Si usas Fiber, el servidor correrá por defecto en <code>http://localhost:19070</code>.</p>
     
-**3. Endpoints de ejemplo**
+**2. Endpoints de ejemplo**
 
 | Método | Ruta           | Descripción                     |
 |--------|----------------|---------------------------------|
