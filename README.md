@@ -52,6 +52,9 @@
 
 # Ejecutar el proyecto
     go run main.go
+
+> [!TIP]
+> strong>Nota:</strong> Si usas Fiber, el servidor correrá por defecto en <code>http://localhost:19070</code>.</p>
     
 <p style="color:red"><strong>Nota:</strong> Si usas Fiber, el servidor correrá por defecto en <code>http://localhost:19070</code>.</p>
 
