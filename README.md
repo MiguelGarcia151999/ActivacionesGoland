@@ -34,11 +34,11 @@
 └── 📄 **README.md**        # Documentación principal  
 
 ### 🔧 Configuración y Uso
-1. Requisitos
-    1.1 Go 1.20+ (Descargar)**
-    1.2 Git (Descargar)
+**1. Requisitos
+    **1.1 Go 1.20+ (Descargar)**
+    **1.2 Git (Descargar)
 
-2. Clonar y ejecutar
+**2. Clonar y ejecutar
 
 # Clonar el repositorio
 git clone https://github.com/MiguelGarcia151999/ActivacionesGoland.git
@@ -51,11 +51,12 @@ go mod download
 go run main.go
 Nota: Si usas Fiber, el servidor correrá por defecto en http://localhost:19070.
 
-3. Endpoints de ejemplo
+**3. Endpoints de ejemplo
+
 | Método | Ruta           | Descripción                     |
 |--------|----------------|---------------------------------|
-| `GET`  | `/api/health`  | Verifica el estado del API.     |
-| `POST` | `/api/users`   | Crea un nuevo usuario.          |
+| GET    | /api/health    | Verifica el estado del API.     |
+| POST   | /api/users     | Crea un nuevo usuario.          |
 
 
 ### 📚 Recursos de Aprendizaje
