@@ -36,8 +36,9 @@
 
 ### 🔧 Configuración y Uso
 **1. Requisitos**
-    **1.1 Go 1.20+ (Descargar)**
-    **1.2 Git (Descargar)**
+
+    1.1 Go 1.20+ (Descargar)
+    1.2 Git (Descargar)
 
 2. Clonar y ejecutar
 
