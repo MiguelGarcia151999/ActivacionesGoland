@@ -34,11 +34,11 @@
 └── 📄 **README.md**        # Documentación principal  
 
 ### 🔧 Configuración y Uso
-**1. Requisitos
-    1.1 Go 1.20+ (Descargar)**
-    1.2 Git (Descargar)
+**1. Requisitos**
+    **1.1 Go 1.20+ (Descargar)**
+    **1.2 Git (Descargar)**
 
-2. Clonar y ejecutar
+**2. Clonar y ejecutar
 
 # Clonar el repositorio
 git clone https://github.com/MiguelGarcia151999/ActivacionesGoland.git
